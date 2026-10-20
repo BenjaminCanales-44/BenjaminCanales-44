@@ -28,9 +28,7 @@ Durante mi práctica en **Scotiabank** desarrollé scripts en Python para automa
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [**Agente IA FarmaSalud**](https://github.com/BenjaminCanales-44/agente-ia-farmasalud) | Agente conversacional con RAG para atención farmacéutica: búsqueda semántica, herramientas de cálculo, memoria, observabilidad y dashboard. | Python · FAISS · GPT-4o-mini · Streamlit |
 | [**Thomas Exclusive**](https://github.com/BenjaminCanales-44/thomas_exclusive18) · [sitio](https://www.thomasexclusive.cl) | *Cliente real.* E-commerce de ropa y zapatillas con carrito, cupones de descuento, cotización de envíos por región y pedidos por WhatsApp. | JavaScript · Node.js · Sveltia CMS · Vercel |
-| [**Obsesión Mate**](https://github.com/BenjaminCanales-44/obsesion_mate) · [demo](https://obsesion-mate.vercel.app) | Tienda online de mates artesanales y personalizados con catálogo administrable. | JavaScript · HTML/CSS · Vercel |
 | [**GADB Construcciones**](https://github.com/BenjaminCanales-44/gadbconstrucciones) · [sitio](https://www.gadbconstrucciones.cl) | *Cliente real.* Sitio corporativo de constructora con portafolio de proyectos, cotización por WhatsApp y panel de administración. | JavaScript · Node.js · Sveltia CMS · Vercel |
 | [**Urban Greys Jeans**](https://github.com/BenjaminCanales-44/urbangreys_jeans) · [sitio](https://www.urbangreysjeans.cl) | *Cliente real.* Catálogo online de jeans con filtros por categoría, SEO local y pedidos por WhatsApp. | JavaScript · HTML/CSS · Vercel |
 
@@ -40,9 +38,7 @@ Durante mi práctica en **Scotiabank** desarrollé scripts en Python para automa
 
 **Lenguajes:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL%20(MySQL)-4479A1?style=flat&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**IA y datos:** ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-
-**Herramientas:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+**Herramientas:** ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
