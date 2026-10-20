@@ -15,7 +15,9 @@ Durante mi práctica en **Scotiabank** desarrollé scripts en Python para automa
 - Optimización de tareas repetitivas mediante automatización.
 
 **Desarrollo web freelance para pymes** · *junto a [Bryan Piña](https://github.com/Bemol69)*
-- Diseño y desarrollo de funcionalidades de tiendas online para negocios locales, con catálogo, carrito, cupones y pedidos por WhatsApp.
+- Más de 35 sitios web y demos para negocios locales de Chile (tiendas de ropa y zapatillas, restaurantes, clínicas, gimnasios, constructoras, entre otros).
+- Clientes reales en producción con dominio propio: **Thomas Exclusive**, **Urban Greys Jeans** y **GADB Construcciones**.
+- Diseño y desarrollo de funcionalidades: catálogo, carrito, cupones, cotizaciones y pedidos por WhatsApp.
 - Proyecto principal: **Thomas Exclusive**, donde tuve la mayor participación en diseño y funcionalidades.
 - Panel de administración para que el cliente gestione productos y fotos sin tocar código.
 - Publicación continua en Vercel, SEO técnico y optimización de imágenes.
@@ -27,9 +29,10 @@ Durante mi práctica en **Scotiabank** desarrollé scripts en Python para automa
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
 | [**Agente IA FarmaSalud**](https://github.com/BenjaminCanales-44/agente-ia-farmasalud) | Agente conversacional con RAG para atención farmacéutica: búsqueda semántica, herramientas de cálculo, memoria, observabilidad y dashboard. | Python · FAISS · GPT-4o-mini · Streamlit |
-| [**Thomas Exclusive**](https://github.com/BenjaminCanales-44/thomas_exclusive18) · [demo](https://thomas-exclusive18.vercel.app) | E-commerce de ropa y zapatillas con carrito, cupones de descuento, cotización de envíos por región y pedidos por WhatsApp. | JavaScript · Node.js · Sveltia CMS · Vercel |
+| [**Thomas Exclusive**](https://github.com/BenjaminCanales-44/thomas_exclusive18) · [sitio](https://www.thomasexclusive.cl) | *Cliente real.* E-commerce de ropa y zapatillas con carrito, cupones de descuento, cotización de envíos por región y pedidos por WhatsApp. | JavaScript · Node.js · Sveltia CMS · Vercel |
 | [**Obsesión Mate**](https://github.com/BenjaminCanales-44/obsesion_mate) · [demo](https://obsesion-mate.vercel.app) | Tienda online de mates artesanales y personalizados con catálogo administrable. | JavaScript · HTML/CSS · Vercel |
-| [**Urban Greys Jeans**](https://github.com/BenjaminCanales-44/urbangreys_jeans) · [demo](https://urbangreys-jeans.vercel.app) | Catálogo online de jeans con filtros por categoría, SEO local y pedidos por WhatsApp. | JavaScript · HTML/CSS · Vercel |
+| [**GADB Construcciones**](https://github.com/BenjaminCanales-44/gadbconstrucciones) · [sitio](https://www.gadbconstrucciones.cl) | *Cliente real.* Sitio corporativo de constructora con portafolio de proyectos, cotización por WhatsApp y panel de administración. | JavaScript · Node.js · Sveltia CMS · Vercel |
+| [**Urban Greys Jeans**](https://github.com/BenjaminCanales-44/urbangreys_jeans) · [sitio](https://www.urbangreysjeans.cl) | *Cliente real.* Catálogo online de jeans con filtros por categoría, SEO local y pedidos por WhatsApp. | JavaScript · HTML/CSS · Vercel |
 
 ---
 
